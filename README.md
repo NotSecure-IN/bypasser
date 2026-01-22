@@ -40,6 +40,8 @@ Bypasser is a professional security testing tool designed for identifying and ex
 
 ```
 $ echo "https://domain.tld/something403" | bypasser
+$ echo "https://domain.tld/something403" | bypasser -r -proxy http://127.0.0.1:8080
+$ bypasser -request captured-file.txt
 ```
 ### Flags :
 
