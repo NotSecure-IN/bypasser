@@ -36,12 +36,27 @@ Bypasser is a professional security testing tool designed for identifying and ex
 
 ## 🚀 Quick Start
 
-### Installation
+### Usage :
 
-#### Method 1: Download Binary
-```bash
-# Download latest release
-wget https://product.notsecure.in/downloads/bypasser-latest
-chmod +x bypasser-latest
-sudo mv bypasser-latest /usr/local/bin/bypasser
+```
+$ echo "https://domain.tld/something403" | bypasser
+```
+### Flags :
+
+```
+  -proxy string
+        Proxy server (e.g., http://127.0.0.1:8080)
+  -r    Continue testing even after successful bypass
+  -ratelimit int
+        Maximum requests per second (default 10)
+  -request string
+        Path to a captured request file
+  -skip-validate
+        Skip API validation (for debugging)
+  -static string
+        Static string to append to paths
+  -timeout int
+        Timeout for HTTP requests in seconds (default 10)
+  -verbose
+        Enable verbose logging
 ```
