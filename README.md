@@ -4,7 +4,7 @@
 
 ![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go)
 ![License](https://img.shields.io/badge/License-Commercial-red)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-blue)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-blue%20%7C%20Android)
 
 ## 📖 Overview
 
@@ -44,3 +44,4 @@ Bypasser is a professional security testing tool designed for identifying and ex
 wget https://product.notsecure.in/downloads/bypasser-latest
 chmod +x bypasser-latest
 sudo mv bypasser-latest /usr/local/bin/bypasser
+```
