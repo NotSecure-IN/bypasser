@@ -1,3 +1,7 @@
+# Support Me
+
+![App Screenshot](bmc-qr.png)
+
 # Bypasser 🔓
 
 **Advanced 403/401 Bypass & WAF Evasion Testing Tool**
