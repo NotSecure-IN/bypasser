@@ -1,10 +1,6 @@
-# Support Me
+# Support Me on BuyMeACoffee :
 
 ![App Screenshot](bmc-qr.png)
-https://raw.githubusercontent.com/NotSecure-IN/bypasser/refs/heads/main/bmc-qr.png
-
-![Screenshot](https://raw.githubusercontent.com/NotSecure-IN/bypasser/refs/heads/main/bmc-qr.png)
-
 
 # Bypasser 🔓
 
